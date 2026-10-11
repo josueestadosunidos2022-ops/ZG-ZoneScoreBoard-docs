@@ -1,48 +1,22 @@
 # ZG ZoneScoreBoard
 
-## English
-
-Configurable sidebar and player-list display. Minecraft 1.20.1 / Forge 47.x.
-
-### Installation
-
-Install the server JAR only on the server. Players do not need this JAR on their clients. Required mod dependencies shown by current source metadata: **ZoneCore**. Check the dependency version range of the exact uploaded file before installation.
-
-### Configuration
-
-Edit generated TOML files while the server or game is stopped unless a documented reload command is available. Back up persistent data before updates.
-
-| Config file | Use |
-|---|---|
-| `zonescoreboard-visual.toml` | Verify the exact generated path and options for the selected release. |
-| `sidebar/lineas.toml` | Verify the exact generated path and options for the selected release. |
-| `sidebar/diseno.toml` | Verify the exact generated path and options for the selected release. |
-| `tabulador/visual.toml` | Verify the exact generated path and options for the selected release. |
-
-See [configuration reference](CONFIGURATION.md) for keys detected in source and [release compatibility](RELEASES.md) for version-pair rules.
-
 ## Español
 
-Barra lateral y lista de jugadores configurables. Minecraft 1.20.1 / Forge 47.x.
+Panel lateral y lista TAB configurables para Minecraft 1.20.1 / Forge 47.x. El diseño ZG admite temas, colores, variables y animaciones. **Instala este único JAR en el servidor**; los clientes no necesitan ZoneScoreBoard. Requiere [ZG ZoneCore](https://www.curseforge.com/minecraft/mc-mods/zg-zonecore) 2.1.0 o superior en el servidor.
 
-### Instalación
+Los jugadores usan `/zsb`, `/zsb on`, `/zsb off` y `/zsb estado` con `zonescoreboard.toggle`. Los administradores usan `/zscore ver`, `/zscore editar`, `/zscore reload`, `/zscore tab probar` y el resto del editor con nivel OP 2 o `zonescoreboard.admin`. `/zonecore reload` también recarga su configuración.
 
-Instala el JAR de servidor solo en el servidor. Los jugadores no necesitan este JAR en sus clientes. Dependencias obligatorias indicadas por los metadatos actuales: **ZoneCore**. Comprueba el rango de versión del archivo exacto que instales.
+Configura `config/ZONEMODS/zonescoreboard/` mediante los cinco TOML generados, descritos en [CONFIGURATION.md](CONFIGURATION.md). Haz una copia antes de cambiar un servidor persistente. ZoneCore proporciona datos de rango y prefijo.
 
-### Configuración
+## English
 
-Edita los TOML generados con el servidor o juego detenido, salvo que exista un comando de recarga documentado. Respalda los datos persistentes antes de actualizar.
+Configurable sidebar and TAB player list for Minecraft 1.20.1 / Forge 47.x servers. Original ZG styling supports themes, colors, variables, and animations. **Install the single JAR on the server**; players do not need ZoneScoreBoard on their clients. [ZG ZoneCore](https://www.curseforge.com/minecraft/mc-mods/zg-zonecore) 2.1.0 or newer is required on the server.
 
-| Archivo de configuración | Uso |
-|---|---|
-| `zonescoreboard-visual.toml` | Comprueba la ruta y opciones generadas de la entrega elegida. |
-| `sidebar/lineas.toml` | Comprueba la ruta y opciones generadas de la entrega elegida. |
-| `sidebar/diseno.toml` | Comprueba la ruta y opciones generadas de la entrega elegida. |
-| `tabulador/visual.toml` | Comprueba la ruta y opciones generadas de la entrega elegida. |
+Players can use `/zsb`, `/zsb on`, `/zsb off`, and `/zsb estado` with `zonescoreboard.toggle`. Administrators can use `/zscore ver`, `/zscore editar`, `/zscore reload`, `/zscore tab probar`, and the rest of the editor with OP level 2 or `zonescoreboard.admin`. `/zonecore reload` also reloads this configuration.
 
-Consulta la [referencia de configuración](CONFIGURATION.md) para claves detectadas en el código y la [compatibilidad de entregas](RELEASES.md) para las parejas de versiones.
+Edit the five generated TOML files under `config/ZONEMODS/zonescoreboard/`; see [CONFIGURATION.md](CONFIGURATION.md). Back up persistent server data before changing it. See [RELEASES.md](RELEASES.md) for the protected file and test limits.
 
-## Ownership / Titularidad
+## Titularidad / Ownership
 
-Documentation and original ZONE visual assets © Elgochogms. This repository contains documentation and a project avatar only; it does not distribute mod source code, private mappings, server secrets or production configuration.
+Documentation and original ZG assets © Elgochogms. This public repository contains only documentation and the project avatar. Source code, mappings, private server data, and credentials are not published here. The new 3.4.1 JAR declares All Rights Reserved; prior MIT grants remain in effect for older versions.
 
