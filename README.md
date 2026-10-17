@@ -1,5 +1,11 @@
 # ZG ZoneScoreBoard
 
+## Update / Actualización — 2026-10-17
+
+Selected version / Versión seleccionada: **server 3.4.2**. New file availability depends on CurseForge approval / La disponibilidad de los archivos nuevos depende de su aprobación en CurseForge.
+
+See [changes, exact files and installation](UPDATES-2026-10-17.md) / Consulta [cambios, archivos e instalación](UPDATES-2026-10-17.md). Preserve the world and TOML files / Conserva mundo y TOML.
+
 ## Español
 
 Panel lateral y lista TAB configurables para Minecraft 1.20.1 / Forge 47.x. El diseño ZG admite temas, colores, variables y animaciones. **Instala este único JAR en el servidor**; los clientes no necesitan ZoneScoreBoard. Requiere [ZG ZoneCore](https://www.curseforge.com/minecraft/mc-mods/zg-zonecore) 2.1.0 o superior en el servidor.
@@ -18,5 +24,5 @@ Edit the five generated TOML files under `config/ZONEMODS/zonescoreboard/`; see 
 
 ## Titularidad / Ownership
 
-Documentation and original ZG assets © Elgochogms. This public repository contains only documentation and the project avatar. Source code, mappings, private server data, and credentials are not published here. The new 3.4.1 JAR declares All Rights Reserved; prior MIT grants remain in effect for older versions.
+Documentation and original ZG assets © Elgochogms. This public repository contains only documentation and the project avatar. Source code, mappings, private server data, and credentials are not published here. The 3.4.2 JAR includes LICENSE.txt, which states All Rights Reserved for this release and preserves the rights granted under the respective licenses of previously released versions.
 
