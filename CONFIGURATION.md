@@ -1,4 +1,4 @@
-# ZG ZoneScoreBoard 3.4.1 — TOML / configuración
+# ZoneScoreBoard 3.4.1 — TOML / configuración
 
 The protected server JAR generated these files under `config/ZONEMODS/zonescoreboard/` in an isolated Forge 47.4.10 launch. / El JAR protegido de servidor generó estos archivos en esa ruta durante un arranque aislado.
 
