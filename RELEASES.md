@@ -1,4 +1,4 @@
-# ZG ZoneScoreBoard — releases / entregas
+# ZoneScoreBoard — releases / entregas
 
 ## 3.4.1 protected candidate / candidato protegido
 
