@@ -1,4 +1,4 @@
-# ZG ZoneScoreBoard
+# ZoneScoreBoard
 
 ## Update / Actualización — 2026-10-17
 
@@ -8,7 +8,7 @@ See [changes, exact files and installation](UPDATES-2026-10-17.md) / Consulta [c
 
 ## Español
 
-Panel lateral y lista TAB configurables para Minecraft 1.20.1 / Forge 47.x. El diseño ZG admite temas, colores, variables y animaciones. **Instala este único JAR en el servidor**; los clientes no necesitan ZoneScoreBoard. Requiere [ZG ZoneCore](https://www.curseforge.com/minecraft/mc-mods/zg-zonecore) 2.1.0 o superior en el servidor.
+Panel lateral y lista TAB configurables para Minecraft 1.20.1 / Forge 47.x. El diseño admite temas, colores, variables y animaciones. **Instala este único JAR en el servidor**; los clientes no necesitan ZoneScoreBoard. Requiere [ZoneCore](https://www.curseforge.com/minecraft/mc-mods/zonecore) 2.1.0 o superior en el servidor.
 
 Los jugadores usan `/zsb`, `/zsb on`, `/zsb off` y `/zsb estado` con `zonescoreboard.toggle`. Los administradores usan `/zscore ver`, `/zscore editar`, `/zscore reload`, `/zscore tab probar` y el resto del editor con nivel OP 2 o `zonescoreboard.admin`. `/zonecore reload` también recarga su configuración.
 
@@ -16,7 +16,7 @@ Configura `config/ZONEMODS/zonescoreboard/` mediante los cinco TOML generados, d
 
 ## English
 
-Configurable sidebar and TAB player list for Minecraft 1.20.1 / Forge 47.x servers. Original ZG styling supports themes, colors, variables, and animations. **Install the single JAR on the server**; players do not need ZoneScoreBoard on their clients. [ZG ZoneCore](https://www.curseforge.com/minecraft/mc-mods/zg-zonecore) 2.1.0 or newer is required on the server.
+Configurable sidebar and TAB player list for Minecraft 1.20.1 / Forge 47.x servers. Original styling supports themes, colors, variables, and animations. **Install the single JAR on the server**; players do not need ZoneScoreBoard on their clients. [ZoneCore](https://www.curseforge.com/minecraft/mc-mods/zonecore) 2.1.0 or newer is required on the server.
 
 Players can use `/zsb`, `/zsb on`, `/zsb off`, and `/zsb estado` with `zonescoreboard.toggle`. Administrators can use `/zscore ver`, `/zscore editar`, `/zscore reload`, `/zscore tab probar`, and the rest of the editor with OP level 2 or `zonescoreboard.admin`. `/zonecore reload` also reloads this configuration.
 
@@ -24,5 +24,5 @@ Edit the five generated TOML files under `config/ZONEMODS/zonescoreboard/`; see 
 
 ## Titularidad / Ownership
 
-Documentation and original ZG assets © Elgochogms. This public repository contains only documentation and the project avatar. Source code, mappings, private server data, and credentials are not published here. The 3.4.2 JAR includes LICENSE.txt, which states All Rights Reserved for this release and preserves the rights granted under the respective licenses of previously released versions.
+Documentation and original assets © Elgochogms. This public repository contains only documentation and the project avatar. Source code, mappings, private server data, and credentials are not published here. The 3.4.2 JAR includes LICENSE.txt, which states All Rights Reserved for this release and preserves the rights granted under the respective licenses of previously released versions.
 
