@@ -1,5 +1,11 @@
 # ZoneScoreBoard
 
+## Optional client / Cliente opcional — 2026-11-02
+
+**English:** The server mod still works without a client mod. An optional **ZoneScoreBoard Client 1.0.1** now styles recognized TAB panels, with configurable colors/spacing and real-player heads/ping when compatible server 3.5.1+ data is present. Install only the client file on players, with no ZoneCore or ZoneRanks client requirement. See [client installation, features and limits](CLIENT-1.0.1.md). The existing public server 3.4.2 files are unchanged.
+
+**Español:** El mod de servidor sigue funcionando sin complemento cliente. **ZoneScoreBoard Client 1.0.1** añade presentación opcional de paneles TAB, colores/separación y cabeza/ping de jugadores reales con datos compatibles de servidor 3.5.1+. Instala solo el archivo cliente en los jugadores, sin exigir Core ni Ranks en cliente. Consulta [instalación, funciones y límites](CLIENT-1.0.1.md). Los archivos públicos existentes de servidor 3.4.2 no cambian.
+
 ## Update / Actualización — 2026-10-17
 
 Selected version / Versión seleccionada: **server 3.4.2**. New file availability depends on CurseForge approval / La disponibilidad de los archivos nuevos depende de su aprobación en CurseForge.
