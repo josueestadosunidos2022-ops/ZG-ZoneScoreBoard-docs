@@ -1,5 +1,22 @@
 # ZoneScoreBoard
 
+## Current builds / Versiones actuales — 2026-11-03
+
+| Side / Lado | Version / Versión | CurseForge |
+|---|---|---|
+| ZoneScoreBoard server | 3.6.0 | [Files / Archivos](https://www.curseforge.com/minecraft/mc-mods/zonescoreboard/files/9426494) |
+| ZoneScoreBoardClient client | 1.1.0 | [Files / Archivos](https://www.curseforge.com/minecraft/mc-mods/zonescoreboard/files/9426501) |
+
+Server 3.6.0 controls appearance; Client 1.1.0 ignores old local TOML. / El servidor 3.6.0 controla la apariencia; el cliente 1.1.0 ignora el TOML local anterior.
+
+[Changes, installation and compatibility / Cambios, instalación y compatibilidad](RELEASE-2026-11-03.md).
+
+Public protected Beta builds. A submitted file becomes downloadable only after CurseForge approval. / Betas públicas protegidas: cada archivo queda descargable cuando CurseForge lo aprueba.
+
+## Earlier documentation / Documentación anterior
+
+The version and side table above takes precedence over historical versions below. / La tabla anterior prevalece sobre versiones históricas de la documentación siguiente.
+
 ## Optional client / Cliente opcional — 2026-11-02
 
 **English:** The server mod still works without a client mod. An optional **ZoneScoreBoard Client 1.0.1** now styles recognized TAB panels, with configurable colors/spacing and real-player heads/ping when compatible server 3.5.1+ data is present. Install only the client file on players, with no ZoneCore or ZoneRanks client requirement. See [client installation, features and limits](CLIENT-1.0.1.md). The existing public server 3.4.2 files are unchanged.
