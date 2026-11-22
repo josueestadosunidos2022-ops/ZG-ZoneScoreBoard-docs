@@ -1,5 +1,28 @@
 # ZoneScoreBoard
 
+## ZoneScoreBoard 3.7.0 / Client 1.2.0 · TAB RPG
+
+### Español
+
+El servidor puede configurar el fondo y el logotipo del TAB de RPG, su opacidad y sus dimensiones. El cliente 1.2.0 incluye el arte de referencia de GODIELAND. Puedes usar texturas de un paquete de recursos y seleccionar sus rutas en la configuración. Se mantiene la vista con perfil, jugadores y estadísticas. El cliente muestra texto si falta el logotipo.
+
+Para ver el arte nuevo usa el servidor 3.7.0 y el cliente 1.2.0. Las configuraciones anteriores conservan su comportamiento hasta que habilites el arte. Minecraft 1.20.1, Forge y Java 17.
+
+### English
+
+The server can configure the RPG TAB background and logo, opacity and dimensions. Client 1.2.0 includes the GODIELAND artwork. Select other textures by using a resource pack and setting their resource paths in the configuration. The profile, player list and stats remain available. The client uses a text heading when the logo is unavailable.
+
+Use server 3.7.0 and client 1.2.0 to display the new artwork. Existing configurations keep their behavior until artwork is enabled. Minecraft 1.20.1, Forge and Java 17.
+
+### Archivos / Files
+
+- [Servidor 3.7.0 / Server](https://www.curseforge.com/minecraft/mc-mods/zonescoreboard/files/9758195)
+- [Cliente 1.2.0 / Client](https://www.curseforge.com/minecraft/mc-mods/zonescoreboard/files/9758196)
+
+[Notas de la versión / Release notes](RELEASE-2026-11-22-3.7.0.md)
+
+## Historial / Previous releases
+
 ## Current builds / Versiones actuales — 2026-11-03
 
 | Side / Lado | Version / Versión | CurseForge |
